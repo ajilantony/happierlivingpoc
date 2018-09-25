@@ -1,0 +1,11 @@
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\bin\Debug\netcoreapp2.0\HappierLiving.Api.deps.json
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\bin\Debug\netcoreapp2.0\HappierLiving.Api.runtimeconfig.json
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\bin\Debug\netcoreapp2.0\HappierLiving.Api.runtimeconfig.dev.json
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\bin\Debug\netcoreapp2.0\HappierLiving.Api.dll
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\bin\Debug\netcoreapp2.0\HappierLiving.Api.pdb
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.csprojResolveAssemblyReference.cache
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.csproj.CoreCompileInputs.cache
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.AssemblyInfoInputs.cache
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.AssemblyInfo.cs
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.dll
+D:\Projects\HappierLiving\Poc\HappierLiving.Poc\HappierLiving.Api\obj\Debug\netcoreapp2.0\HappierLiving.Api.pdb
